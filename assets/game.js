@@ -69,7 +69,7 @@ function setTime() {
     setTime();
 
 
-const CORRECT_BONUS = 5;
+const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 3;
 
 
